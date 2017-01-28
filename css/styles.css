@@ -1,7 +1,19 @@
 /********************
 YOUR STYLES
 *******************/
+h1 {
+  font-size: 5em;
+  text-align: center;
+  text-transform: uppercase;
+}
 
+.char3 {
+    color: red;
+}
+
+.char5 {
+    color: aqua;
+}
 
 
 
@@ -14,7 +26,7 @@ MEDIA QUERIES
   /* Diagnostic Styling. Delete When Done. */
   body:before {
        background: yellow;
-       content: "Mobile Size";
+       content: "Mobile";
   }
   
 }
